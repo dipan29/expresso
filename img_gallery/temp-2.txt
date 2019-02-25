@@ -1,0 +1,318 @@
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(1).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(1).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>War</h2>
+			<span>Soumyadeep Bhattacharya</span>
+		</div>
+	</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(2).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(2).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Love and feelings</h2>
+			<span>Sweta Das</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(3).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(3).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>You</h2>
+			<span>Niprojit</span>
+		</div>
+	</a>
+</div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(4).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(4).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Future</h2>
+			<span>Diana</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(5).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(5).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Selfishness</h2>
+			<span>Niprojit</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(6).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(6).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Hope</h2>
+			<span>Pushpahash Biswas</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(7).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(7).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Relationships</h2>
+			<span>Niprojit</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(8).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(8).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>You are Art</h2>
+			<span>Niprojit</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(9).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(9).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Have Faith</h2>
+			<span>Bipasha Barua</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(10).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(10).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>From Hell</h2>
+			<span>Riya Biswas</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(11).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(11).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Condition</h2>
+			<span>Nilesh</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(12).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(12).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>I want her happy</h2>
+			<span>Parikshit</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(13).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(13).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Outlook</h2>
+			<span>Anwesha Chatterjee</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(14).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(14).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>A tip</h2>
+			<span>Sayak Saha</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(15).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(15).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Money</h2>
+			<span>Sayak Saha</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(16).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(16).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Love</h2>
+			<span>Priti Ghosh</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(17).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(17).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Peace</h2>
+			<span>Parikshit</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(18).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(18).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Lie</h2>
+			<span>Tara</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(19).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(19).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Him</h2>
+			<span>Anwesha</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(20).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(20).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Mom</h2>
+			<span>Tara</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(21).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(21).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Let it go</h2>
+			<span>Tara</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(22).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(22).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>A chance</h2>
+			<span>Tara</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(23).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(23).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Trust</h2>
+			<span>Chirayata Chakraborty</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(24).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(24).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Women</h2>
+			<span>Leoni Schueler</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(25).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(25).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Them</h2>
+			<span>Anwesha</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(26).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(26).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>A gentle whisper</h2>
+			<span>Saptarshi</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(27).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(27).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Time</h2>
+			<span>Leoni Schueler</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(28).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(28).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Kolkata</h2>
+			<span>Anwesha</span>
+		</div>
+	</a>
+</div>
+
+<div class="clearfix visible-sm-block"></div>
+
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(29).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(29).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>Life</h2>
+			<span>Soumyadeep Bhattacharya</span>
+		</div>
+	</a>
+</div>
+<div class="col-md-4 col-sm-6 col-xxs-12">
+	<a href="img_gallery/Display_(30).jpg" class="fh5co-project-item image-popup to-animate">
+		<img src="img_gallery/Display_(30).jpg" alt="Image" class="img-responsive">
+		<div class="fh5co-text">
+			<h2>First Meet</h2>
+			<span>Bipasha Barua</span>
+		</div>
+	</a>
+</div>
+
+
+<div class="clearfix visible-sm-block"></div>
+

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#fb-post {
+  display: block;
+  width: 500px;
+  position: relative;
+  margin:2px;
+  top: 0;
+  background: #fff;
+  overflow: hidden;
+  z-index: 9;
+  margin-bottom: 30px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  border-radius: 7px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+

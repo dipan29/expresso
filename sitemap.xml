@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://expresso.mindwebs.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/index.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/login.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/home.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/team.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/submit.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/gallery_n.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/SocialConnect.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/signup.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/forgetpass.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/upload_photo.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=67</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=66</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=65</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=64</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=63</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=62</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=61</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=60</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=59</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=57</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=56</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=55</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=54</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=51</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=50</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=49</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=48</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=47</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=46</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=45</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=44</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=39</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=35</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=34</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=33</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=30</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=31</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=32</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=28</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=27</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=26</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=25</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=24</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=23</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=20</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=19</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=17</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=16</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=15</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=13</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=11</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=10</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=7</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=6</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=5</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=4</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/blog_view.php?var=2</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/SocialConnect_mindwebs.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/SocialConnect_diaryofminds.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/SocialConnect_sports_updates_now.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/SocialConnect_m_sci_tech.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-AvinavG.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-NeelabhK99.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=84</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/view_user.php?var=59</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-Dipan29.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-Anwesha99.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-kdas01.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-prksc13.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-PiyushAgg.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=52</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-Pghosh99.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=40</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-ShroddhaC.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=46</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user-AnishD98.php</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=43</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/user.php?var=42</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://expresso.mindwebs.org/view_user.php?var=2</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
