@@ -6,7 +6,7 @@ ini_set('display_errors', '1');
     session_start();
     date_default_timezone_set('Asia/Kolkata');
     
-    $con = mysqli_connect("localhost", "dipan", "dipan", "i3649700_wp1") or die("Error " . mysqli_error($con));
+    $con = mysqli_connect("localhost", "root", "", "table_name") or die("Error " . mysqli_error($con));
     
     $name = $_POST['name'];
     $email = $_POST['email'];
@@ -24,7 +24,6 @@ if(mysqli_query($con, "INSERT INTO api_key (name, email, hash) VALUES ('".$name.
     $headers .= "Reply-To: administrator@mindwebs.org";
     
     $to = "dipanroy@mindwebs.org";
-    $to1 = "mindwebsteam@gmail.com";
     
     mail($to,$email_subject,$email_body,$headers);
     //mail($to1,$email_subject,$email_body,$headers);
